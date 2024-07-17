@@ -1,4 +1,5 @@
 smart contract part is under private. If you wanna know about it, reach out me at Discord:@savvydev.
+Discord: https://discord.com/users/346173916710043650
 
 # Pump.Fun Smart Contract
 ## Overview
