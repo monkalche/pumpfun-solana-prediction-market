@@ -31,10 +31,8 @@ Acknowledgments
 This project was inspired by the work of [insert inspirations]. Special thanks to [insert acknowledgments].
 
 Contact
-If you have any questions or feedback, please reach out to us at [insert contact email or GitHub handle].
+If you have any questions or feedback, please reach out to us at [raymondcasy@gmail.com].
 
-Screenshots
 
-[Insert screenshots of your smart contract's UI]
 
 I hope this sample README file helps inspire you to create a compelling introduction to your Solana Pump.Fun smart contract!
