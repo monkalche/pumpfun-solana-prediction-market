@@ -3,6 +3,14 @@ raymondcasy@gmail.com, discord:@savvydev.
 
 ##Tools for pump.fun
 
+##Technical Details:
+Pump.Fun is built using the following technologies:
+
+Frontend: React.js
+Backend: Node.js
+Blockchain: Solana
+Database: PostgreSQL
+
 ## Features
 - List pumpfun tokens which to be complete
 - Sort by Market Cap, Quickly find the easiest one to complete
