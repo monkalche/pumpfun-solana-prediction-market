@@ -1,4 +1,4 @@
-smart contract repo is under private. If you wanna know about it, reach out me at Discord:@savvydev.
+smart contract part is under private. If you wanna know about it, reach out me at Discord:@savvydev.
 
 # Pump.Fun Smart Contract
 ## Overview
