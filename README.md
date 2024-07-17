@@ -1,3 +1,5 @@
+Here's a sample README file for your Solana Pump.Fun smart contract repository:
+
 #Pump.Fun Smart Contract
 ##Overview
 Pump.Fun is a decentralized prediction market smart contract built on Solana. It allows users to create and participate in prediction markets, where they can bet on the outcome of various events, such as sports games, stock prices, or other outcomes. The contract is designed to be fair, transparent, and decentralized, with a focus on providing a fun and engaging experience for users.
