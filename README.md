@@ -1,4 +1,4 @@
-# pumpfun
+# pumpfun(Smart Contract Repo is under private)
 Tools for pump.fun
 
 ## Features
@@ -9,5 +9,3 @@ Tools for pump.fun
 - Fast swap with Bonkbot、Pepeboost、GMGN Sniper Bot in one click
 - Support Mobile and PC, Light and Dark Mode
 - Support PWA, Add it to desktop for better experience
-
-## Smart Contract Repo is under private
