@@ -1,4 +1,4 @@
-Here's a sample README file for your Solana Pump.Fun smart contract repository:
+smart contract repo is under private. If you wanna know about it, reach out me at Discord:@savvydev.
 
 # Pump.Fun Smart Contract
 ## Overview
