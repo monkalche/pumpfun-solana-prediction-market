@@ -13,7 +13,7 @@ Installation
 Install the Solana command-line interface (CLI) by running curl -sSf https://release.solana.com/stable/install | sh.
 Create a new Solana account by running solana-keygen new.
 Fund your account with SOL by sending SOL to your account address.
-Clone this repository by running git clone https://github.com/your-github-handle/pump-fun-smart-contract.git.
+Clone this repository by running git clone https://github.com/savvydev84/pump-fun-smart-contract.git.
 Compile the contract by running cargo build.
 Deploy the contract to the Solana testnet by running solana deploy --network testnet.
 Usage
