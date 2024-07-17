@@ -1,4 +1,5 @@
 # pumpfun(Smart Contract Repo is under private)
+raymondcasy@gmail.com, discord:@savvydev. 
 Tools for pump.fun
 
 ## Features
