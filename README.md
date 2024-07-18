@@ -1,6 +1,6 @@
 smart contract part is under private. If you wanna know about it, reach out me at Discord[https://discord.com/users/346173916710043650].
 
-# Pump.Fun Smart Contract
+# 💊 Pump.Fun Smart Contract
 ## Overview
 Pump.Fun is a decentralized prediction market smart contract built on Solana. It allows users to create and participate in prediction markets, where they can bet on the outcome of various events, such as sports games, stock prices, or other outcomes. The contract is designed to be fair, transparent, and decentralized, with a focus on providing a fun and engaging experience for users.
 
