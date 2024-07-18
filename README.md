@@ -1,4 +1,4 @@
-Smart Contract part is under private. If you wanna know about it, reach out me at Discord[https://discord.com/users/346173916710043650].
+Smart Contract part is under private. If you wanna take a look at smart contract, reach out me at Discord[https://discord.com/users/346173916710043650].
 
 # 💊 Pump.Fun Smart Contract
 ## Overview
